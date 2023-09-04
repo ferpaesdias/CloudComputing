@@ -34,3 +34,18 @@ Não precisa de investimentos iniciais em hardware, é possível iniciar com os 
 
 <br>
 
+## Free Tier
+
+- AWS
+  - 12 meses gratuitos
+  - Sempre gratuitos
+  - Teste gratuito
+
+- Azure
+  - 12 meses gratuitos
+  - Sempre gratuitos
+  - 30 dias - USD 200
+ 
+- Google Cloud
+  - Sempre gratuitos
+  - 90 dias - USD 300
